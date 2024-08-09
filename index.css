@@ -208,3 +208,50 @@ bottom:190px;
     color: rgb(120, 120, 186); ;
     cursor: pointer;
 }
+.news{
+    display: flex;
+    width: 90%;
+    margin:0 auto;
+}
+.mourns{
+    background-color: rgb(231, 229, 229);
+    border-top: 3px solid orange;
+    padding: 4px;
+
+}
+.news-1,.news-2{
+    width: 50%;
+    
+
+}
+.mourns{
+    color: rgb(119, 119, 119);
+    text-decoration: none;
+    
+}
+.mourns a:hover{
+    color:rgb(160,160,228) ;
+}
+.mourns p{
+    font-size: 15px;
+    color: grey;
+
+}
+.mourns span:hover{
+    cursor: pointer;
+    font-size: 15px;
+    
+
+}
+.new-2 img{
+    width:50%;
+    align-items: center;
+    position: relative;
+    left:;
+
+}
+.news-2{
+    display: flex;
+    margin-top: ;
+
+}
